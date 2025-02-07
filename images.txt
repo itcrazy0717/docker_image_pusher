@@ -1,1 +1,1 @@
-openjdk:21
+tomcat:7.0.59
