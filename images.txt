@@ -1,1 +1,1 @@
-tomcat:9.0.98-jre8
+franky1/tesseract:latest
