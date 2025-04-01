@@ -1,1 +1,1 @@
-franky1/tesseract:latest
+mysql:8.4.4
