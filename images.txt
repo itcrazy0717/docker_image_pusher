@@ -1,1 +1,1 @@
-nginx:1.23-alpine
+maven:3.5-jdk-8
